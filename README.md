@@ -8,14 +8,23 @@ Organize Airbnb’s furnishings and save time for decorating your home
 
 
 ### Index
+
    [1. What are we solving for/problem statement?](https://github.com/Cay0331/Airbnb-furniture-profuct/edit/main/README.md#L20)
+   
    [2. Background Context](https://github.com/Cay0331/Airbnb-furniture-profuct/edit/main/README.md#L27)
+   
    [3. Success Metrics](https://github.com/Cay0331/Airbnb-furniture-profuct/edit/main/README.md#L41)
+   
    [4. Target Audience](https://github.com/Cay0331/Airbnb-furniture-profuct/edit/main/README.md#L45)
+   
    [5. User Story](https://github.com/Cay0331/Airbnb-furniture-profuct/edit/main/README.md#L51)
+   
    [6. User Persona](https://github.com/Cay0331/Airbnb-furniture-profuct/edit/main/README.md#L54)
+   
    [7. Competitors](https://github.com/Cay0331/Airbnb-furniture-profuct/edit/main/README.md#L57)
+   
    [8. Strategies for Adoption](https://github.com/Cay0331/Airbnb-furniture-profuct/edit/main/README.md#L60)
+   
 
 ### 1. What are we solving for/problem statement?
 Furn-hunting is expanding its revenue model by finding Airbnb furnitures and share host commision from those who buy furniture using our platform.
