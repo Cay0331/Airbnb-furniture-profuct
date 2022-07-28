@@ -74,4 +74,7 @@ Expected revenue based on assumption
 
 ### Want to learn more about me? [My Website](https://caychencom.wordpress.com/)
 
+![image](https://user-images.githubusercontent.com/51731106/181639351-50d39e03-70a8-4b0b-8a46-d3ae673b8ba8.png)
+
+
 
