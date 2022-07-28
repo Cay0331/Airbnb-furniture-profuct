@@ -8,7 +8,7 @@ Organize Airbnb’s furnishings and save time for decorating your home
 
 
 ### Index
-  #L20 1. What are we solving for/problem statement?
+  #L 20 1. What are we solving for/problem statement?
    2. Background Context
    3. Success Metrics
    4. Target Audience
