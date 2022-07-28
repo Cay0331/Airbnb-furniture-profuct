@@ -8,7 +8,7 @@ Organize Airbnb’s furnishings and save time for decorating your home
 
 
 ### Index
-   1. What are we solving for/problem statement? (https://github.com/Cay0331/Airbnb-furniture-profuct/edit/main/README.md#L20)
+   [1. What are we solving for/problem statement?] (https://github.com/Cay0331/Airbnb-furniture-profuct/edit/main/README.md#L20)
    2. Background Context
    3. Success Metrics
    4. Target Audience
