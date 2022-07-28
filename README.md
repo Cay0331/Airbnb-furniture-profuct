@@ -1,7 +1,7 @@
 # Airbnb-furniture-product
 
 
-###Product Requirement Document (PRD)
+### Product Requirement Document (PRD)
 
 ### Our Mission
 Organize Airbnb’s furnishings and save time for decorating your home
@@ -63,6 +63,6 @@ Expected revenue based on assumption
 
 
 
-### About me [My Website](https://caychencom.wordpress.com/)
+### Want to learn more about me? [My Website](https://caychencom.wordpress.com/)
 
 
