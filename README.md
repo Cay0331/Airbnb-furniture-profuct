@@ -31,9 +31,9 @@
 ### 1. What are we solving for/problem statement?
 Furn-hunting is expanding its revenue model by finding Airbnb furnitures and share host commision from those who buy furniture using our platform.
 
-###       Pain Points
+**Pain Points**
 
-###       Objectives
+**Objectives**
 
 - Capture two sided marketplace.
 - Capture the tougher side. → Hoster
@@ -41,13 +41,13 @@ Furn-hunting is expanding its revenue model by finding Airbnb furnitures and sha
 
 ### 2. Background Context
 
-###       Solution
+**Solution**
 
-###       Pricing Structure
+**Pricing Structure**
 
-###       Competitor Price Platforms
+**Competitor Price Platforms**
 
-###       Revenue
+**Revenue**
 Expected revenue based on assumption 
 [Total Annual Revenue = Total units sold x price of each product]
 [Revenue Growth = (Revenue of Y2 (-) Revenue of Y1)/(Revenue of Y1)]
@@ -67,7 +67,7 @@ Health Metrics
 ### 4. Target Audience
 
 
-### How will Users interact with the Genadrop features
+**How will Users interact with the Genadrop features**
 
 
 ### 5. User Story
