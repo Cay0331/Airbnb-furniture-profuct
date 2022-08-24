@@ -70,7 +70,7 @@ Health Metrics
 ### How will Users interact with the Genadrop features
 
 
-### 5. User Story + Epic
+### 5. User Story
 
 - As a Host, I want the ability to create an account on Homeify so that I can have my profile.
 - As a Host, I want the ability to log in to my Homeify account so that I can log in on different devices.
@@ -82,6 +82,8 @@ Health Metrics
 - As a Host/Resident, I want the ability to view the landing page from Homeify so that I know I can go to vendor directly.
 - As a Host, I want to see what financial benefits I will have for listing my items on this site so that I can deciede if I want to list.
 - As a Homeify Admin, I want the ability to view/edit listings so that I can have a big picture of listings in Homeify. 
+
+**Epic**
 
 - Sign In/Sign Up(optional)
 - Listing - Host
