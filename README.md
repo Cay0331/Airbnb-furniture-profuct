@@ -4,9 +4,8 @@
 ### Product Requirement Document (PRD)
 
 ### Our Mission
-- Organize Airbnb’s furnishings and save time for decorating your home.
 - To inspire customers with home staging ideas and to maximize Airbnb listing exposure.
-- Connect Airbnb and Home Decor Lovers
+
 
 
 ### Index
@@ -29,9 +28,20 @@
    
 
 ### 1. What are we solving for/problem statement?
-Furn-hunting is expanding its revenue model by finding Airbnb furnitures and share host commision from those who buy furniture using our platform.
+Homeify is expanding its revenue model by finding Airbnb furnitures and share host commision from those who buy furniture using our platform.
 
 **Pain Points**
+- Airbnb hosts
+   - Not getting enough exposure/ bookings 
+   - Keeping track of current trend
+   - Not satisfied with the commission rate
+- Home good buyers
+   - Looking for specific style/ ideas
+   - Wanting to know how the furniture fits in
+   - Not knowing the style she/he likes
+   - Furnitures are expensive (dup or discount)
+- Furniture partners
+   - Ads shortage
 
 **Objectives**
 
@@ -67,7 +77,7 @@ Health Metrics
 ### 4. Target Audience
 
 
-**How will Users interact with the Genadrop features**
+**How will Users interact with the Homeify features**
 
 
 ### 5. User Story
@@ -100,6 +110,10 @@ Health Metrics
 
 
 ### 8. Strategies for Adoption
+
+
+### 9. Business Model Canvas
+
 
 
 
